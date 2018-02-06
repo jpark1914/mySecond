@@ -1,0 +1,63 @@
+.img{
+    width: 1080px;
+    height: 40px;
+}
+.navbar-collapse .container-fluid {
+    padding: 2rem 2.5rem;
+    border-bottom: 1px solid #55559c;
+}
+.navbar-collapse h4{
+    color: #818a91;
+}
+.navbar-collapse .text-muted {
+    color: #818a91;
+}
+
+.jumbotron{
+    padding: 6rem 0rem;
+    margin-bottom: 0;
+    background-color: #fff;
+    background-image: url(img/memphis-skyline.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+}
+.jumbotron-heading{
+    color: gainsboro;
+    font-weight: 500;
+}
+
+.jumbotron .container{
+    max-width: 40rem;
+    padding: 2rem;
+    background: rgba(51, 0, 0, 0.5);
+    color: white;
+}
+.jumbotron p {
+    color: gainsboro;
+    text-shadow: 0 0 10px rgba(0, 0 ,0, 0.5);
+}
+.album{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #f7f7f7;
+}
+.card{
+    float: left;
+    width: 30%;
+    padding: 1rem;
+    margin: .75rem;
+    border: 6;
+}
+
+.card>img {
+    margin-bottom: .75rem;
+    max-width: 100%;
+}
+.card-text {
+    font-size: 85%;
+}
+.footer{
+    padding: 2rem 0rem;
+}
